@@ -12,5 +12,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=sungsoos&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github">
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=sungsoos&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=light_github">
     <img alt="sungsoo's Github stats" src="https://github-stats-extended.vercel.app/api?username=sungsoos&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github">
-  </picture>
+  </picture><br><br>
+  <samp>Hello, i'm sungsoos! 👏</samp>
 </div>
